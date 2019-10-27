@@ -24,7 +24,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+venv/Lib/
 lib64/
 parts/
 sdist/
@@ -141,3 +141,7 @@ dmypy.json
 *.iml
 out
 gen
+/venv/Lib/
+/venv/Scripts/
+/venv/share/
+/venv/Include/
